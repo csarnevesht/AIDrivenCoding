@@ -1,4 +1,4 @@
-# AIDrivenCoding
+# AI Driven Coding
 
 1. VS Code and new AI agent mode: https://github.com/csarnevesht/AIDrivenCoding/blob/main/VSCodeNewAIagent.pdf
 2. Selenium:
